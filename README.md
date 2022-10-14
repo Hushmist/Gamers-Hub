@@ -1,8 +1,5 @@
 # That's old project
 
-# URL
-http://f0682703.xsph.ru/
-
 # The technology used
 
 Pure PHP, HTML, CSS and Bootstrap 
